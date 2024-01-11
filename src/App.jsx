@@ -33,6 +33,7 @@ function handleOnChange(inputIndentifier,newValue){
       {inputIsValid && <Results 
         input={initialValue}
         />}
+      <a class="github-button" href="https://github.com/Mrityunjay20/investment-Calculator" target="_blank">View on GitHub</a>
     </>
   )
 }

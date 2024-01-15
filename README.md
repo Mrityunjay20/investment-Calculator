@@ -15,7 +15,7 @@ git clone https://github.com/Mrityunjay20/investment-Calculator.git
 ```
 Navigate to the project directory:
 ```
-cd compound-interest-calculator
+cd investment-Calculator
 ```
 Install dependencies:
 ```
@@ -23,7 +23,7 @@ npm install
 ```
 Run the application:
 ```
-npm start
+npm run dev
 ```
 This will start the development server, and you can view the app at http://localhost:3000 in your browser.
 
